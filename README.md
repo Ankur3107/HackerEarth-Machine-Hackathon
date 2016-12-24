@@ -1,4 +1,4 @@
-# Gyanmatrix Hiring Challenge
+# HackerEarth-Machine-Hackathon
 ----------
 
 ## Step of Running the implementaion
