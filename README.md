@@ -6,14 +6,14 @@
 
 Step 1 : 
 
-# First, go to the proper directory
+# set proper directory
 setwd('/home/username/desktop/rcode')
 
 source('packages.R')
 
 Step 2 :
 
-# Run the question
+# Run the question according to dataset
 
 source('question.R')
 
